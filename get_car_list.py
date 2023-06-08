@@ -58,7 +58,7 @@ async def get_car_details(page):
     return cars
 
 async def main():
-    url = "https://de.2em.ch/autovermietung?adresse=Gen%C3%A8ve%2C+Schweiz&search=Suche&date_depart=23%2F06%2F2023&date_retour=25%2F06%2F2023&state_am=09%3A00&state_pm=09%3A00&vehicule=auto&latitude=46.2043907&longitude=6.1431577&resetsearch=1"
+    url = "https://de.2em.ch/autovermietung?adresse=Basel%2C+Schweiz&search=Suche&date_depart=24%2F06%2F2023&date_retour=26%2F06%2F2023&state_am=09%3A00&state_pm=14%3A00&vehicule=auto&latitude=47.5595986&longitude=7.5885761&resetsearch=1"
     page, browser = await get_page_content(url)
     await click_load_more_button(page)
     cars = await get_car_details(page)
