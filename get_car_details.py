@@ -95,8 +95,8 @@ async def check_and_get_car_details(browser, car_data):
 
 
 async def main():
-    # Load URLs from car_data_zurich.json
-    with open('car_data_zurich.json', 'r') as f:
+    # Load URLs from car_data.json
+    with open('car_data.json', 'r') as f:
         car_data = json.load(f)
 
     # Launch the browser

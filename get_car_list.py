@@ -58,14 +58,14 @@ async def get_car_details(page):
     return cars
 
 async def main():
-    url = "https://de.2em.ch/autovermietung?adresse=Z%C3%BCrich%2C+Schweiz&search=Suche&date_depart=18%2F08%2F2023&date_retour=20%2F08%2F2023&state_am=09%3A00&state_pm=09%3A00&vehicule=auto&latitude=47.3768866&longitude=8.541694&resetsearch=1"
+    url = "https://de.2em.ch/autovermietung?adresse=Gen%C3%A8ve%2C+Schweiz&search=Suche&date_depart=23%2F06%2F2023&date_retour=25%2F06%2F2023&state_am=09%3A00&state_pm=09%3A00&vehicule=auto&latitude=46.2043907&longitude=6.1431577&resetsearch=1"
     page, browser = await get_page_content(url)
     await click_load_more_button(page)
     cars = await get_car_details(page)
     await browser.close()
 
     logging.info('Writing car details to JSON file...')
-    with open('car_data_zurich.json', 'w') as file:
+    with open('car_data.json', 'w') as file:
         json.dump(cars, file)
     logging.info('Done.')
 
