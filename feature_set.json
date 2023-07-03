@@ -1,0 +1,273 @@
+{
+    "vignette": [
+        "Vignette"
+    ],
+    "carrosserie": [
+        "Transporter",
+        "Geländewagen",
+        "Coupé",
+        "Kleinwagen",
+        "Oldtimer",
+        "Lernfahrzeug",
+        "Camper",
+        "Kombi",
+        "Bus",
+        "Pick-up",
+        "Cabriolet",
+        "Limousine",
+        "Minivan"
+    ],
+    "seat": [
+        "0 Sitzer",
+        "2 Sitzer",
+        "3 Sitzer",
+        "6 Sitzer",
+        "5 Sitzer",
+        "8 Sitzer",
+        "7 Sitzer",
+        "4 Sitzer",
+        "9 Sitzer"
+    ],
+    "porte": [
+        "2 Türen",
+        "0 Türen",
+        "4 Türen",
+        "5 Türen",
+        "3 Türen",
+        "6 Türen"
+    ],
+    "carburant": [
+        "",
+        "Benzin bleifrei 98",
+        "Diesel",
+        "Erdgas",
+        "Benzin bleifrei 95",
+        "Elektro -",
+        "Andere",
+        "Biogas",
+        "Hybrid"
+    ],
+    "consommation": [
+        "",
+        "17 L/100km",
+        "4 L/100km",
+        "2 L/100km",
+        "5 L/100km",
+        "12 L/100km",
+        "6 L/100km",
+        "13 L/100km",
+        "18 L/100km",
+        "15 L/100km",
+        "8 L/100km",
+        "16 L/100km",
+        "20L/100km und mehr",
+        "1 L/100km",
+        "7 L/100km",
+        "-",
+        "14 L/100km",
+        "11 L/100km",
+        "10 L/100km",
+        "3 L/100km",
+        "9 L/100km"
+    ],
+    "gearbox": [
+        "",
+        "sequentiell",
+        "automatisch",
+        "manuell"
+    ],
+    "compteur": [
+        "15-30.000km",
+        "0-15.000km",
+        "",
+        "150-200.000km",
+        "100-150.000km",
+        "50-75.000km",
+        "75-100.000km",
+        "30-50.000km",
+        "+200.000km"
+    ],
+    "motrice": [
+        "Vorderrad",
+        "Hinterrad",
+        "Allrad"
+    ],
+    "attelage": [
+        "Anhängerkupplung"
+    ],
+    "pneu-neige": [
+        "Winterpneu"
+    ],
+    "climatisation": [
+        "Klimaanlage"
+    ],
+    "assiste": [
+        "Servolenkung"
+    ],
+    "regulateur-vitesse": [
+        "Geschwindigkeitsregler"
+    ],
+    "radio-cd": [
+        "Radio / CD"
+    ],
+    "cable": [
+        "USB-Anschluss"
+    ],
+    "cable-iphone": [
+        "Audio / iPod Zugang"
+    ],
+    "radar": [
+        "Rückfahrradar"
+    ],
+    "year": [
+        "1997",
+        "1994",
+        "1992",
+        "1989",
+        "1998",
+        "2008",
+        "2014",
+        "2011",
+        "2006",
+        "7199",
+        "2015",
+        "2002",
+        "2005",
+        "2017",
+        "1972",
+        "2020",
+        "1973",
+        "2001",
+        "1982",
+        "2012",
+        "2013",
+        "2918",
+        "1967",
+        "1990",
+        "1996",
+        "1965",
+        "2007",
+        "1981",
+        "1988",
+        "1995",
+        "2000",
+        "2022",
+        "2016",
+        "2019",
+        "2021",
+        "1968",
+        "2009",
+        "2010",
+        "2023",
+        "2004",
+        "2018",
+        "2003",
+        "1974",
+        "1999",
+        "2103"
+    ],
+    "make": [
+        "",
+        "Kia",
+        "Cadillac",
+        "Opel",
+        "Dacia",
+        "Daihatsu",
+        "Smart",
+        "Saab",
+        "Chevrolet",
+        "Honda",
+        "Ford",
+        "Volvo",
+        "Maserati",
+        "Audi",
+        "Alfa-Romeo",
+        "Infiniti",
+        "Mazda",
+        "Autre",
+        "Porsche",
+        "Renault",
+        "Ford-Usa",
+        "Microlino",
+        "Peugeot",
+        "Lexus",
+        "Jeep",
+        "Skoda",
+        "Mini",
+        "Nissan",
+        "Dodge",
+        "Fiat",
+        "Bmw",
+        "Jaguar",
+        "Daewoo",
+        "Volkswagen",
+        "Suzuki",
+        "Tesla",
+        "Cupra",
+        "Mitsubishi",
+        "Land Rover",
+        "Citroen",
+        "Ssangyong",
+        "Seat",
+        "Iveco",
+        "Mercedes",
+        "Hyundai",
+        "Lotus",
+        "Chrysler",
+        "Subaru",
+        "Alpine",
+        "Toyota"
+    ],
+    "gps": [
+        "eingebautes GPS"
+    ],
+    "chaine-neige": [
+        "Schneeketten"
+    ],
+    "apple-charge": [
+        "Ladekabel für Apple"
+    ],
+    "coffre-toit": [
+        "Dachboxen"
+    ],
+    "porte-ski": [
+        "Skiträger"
+    ],
+    "barre-toit": [
+        "Dachträger"
+    ],
+    "android-charge": [
+        "Ladekabel für Android"
+    ],
+    "isofix": [
+        "Kindersitzvorrichtung (Isofix)"
+    ],
+    "siege-bebe": [
+        "Kindersitz"
+    ],
+    "porte-velo": [
+        "Veloträger"
+    ],
+    "autonomie": [
+        "50 km",
+        "100 km",
+        "400 km",
+        "500 km",
+        "150 km",
+        "300 km",
+        "200 km",
+        "600 km"
+    ],
+    "autopilotage": [
+        "Autopilot"
+    ],
+    "auto45": [
+        "45kmh Auto"
+    ],
+    "gps-amovible": [
+        "abnehmbares GPS"
+    ],
+    "route": [
+        "behindertengerechtes Auto"
+    ]
+}
