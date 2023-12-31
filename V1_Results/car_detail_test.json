@@ -1,0 +1,96 @@
+[
+  {
+    "make": "Volkswagen",
+    "model": "Golf Variant Value 1.4 TSI 2012",
+    "latitude": "47.260406",
+    "longitude": "8.761579",
+    "features": {
+      "vignette": "Vignette",
+      "carrosserie": "Kombi",
+      "calendar": "03.10.2012",
+      "seat": "5 Sitzer",
+      "porte": "5 Türen",
+      "carburant": "Benzin bleifrei 95",
+      "consommation": "7 L/100km",
+      "gearbox": "manuell",
+      "compteur": "+200.000km",
+      "motrice": "Vorderrad",
+      "attelage": "Anhängerkupplung",
+      "pneu-neige": "Winterpneu",
+      "climatisation": "Klimaanlage",
+      "assiste": "Servolenkung",
+      "regulateur-vitesse": "Geschwindigkeitsregler",
+      "radio-cd": "Radio / CD",
+      "cable": "USB-Anschluss",
+      "cable-iphone": "Audio / iPod Zugang",
+      "radar": "Rückfahrradar"
+    },
+    "reviews": [
+      "15.04.2023",
+      "09.03.2023",
+      "22.01.2023",
+      "09.01.2023",
+      "07.09.2022"
+    ],
+    "url": "https://de.2em.ch/autovermietung/hombrechtikon/volkswagen-golf-variant-value-1-4-tsi-249"
+  },
+  {
+    "make": "Mini",
+    "model": "Paceman S All4 2014",
+    "latitude": "47.284687",
+    "longitude": "8.576593",
+    "features": {
+      "carrosserie": "Coupé",
+      "calendar": "04.11.2014",
+      "seat": "4 Sitzer",
+      "porte": "2 Türen",
+      "carburant": "Benzin bleifrei 95",
+      "consommation": "6 L/100km",
+      "gearbox": "automatisch",
+      "compteur": "50-75.000km",
+      "motrice": "Allrad",
+      "gps": "eingebautes GPS",
+      "pneu-neige": "Winterpneu",
+      "climatisation": "Klimaanlage",
+      "assiste": "Servolenkung",
+      "regulateur-vitesse": "Geschwindigkeitsregler",
+      "radio-cd": "Radio / CD",
+      "cable": "USB-Anschluss"
+    },
+    "reviews": [
+      "03.06.2023",
+      "23.04.2023",
+      "06.04.2023"
+    ],
+    "url": "https://de.2em.ch/autovermietung/thalwil/mini-paceman-s-all4-6357"
+  },
+  {
+    "make": "Porsche",
+    "model": "Cayenne Turbo 2004",
+    "latitude": "47.284687",
+    "longitude": "8.576593",
+    "features": {
+      "carrosserie": "Geländewagen",
+      "calendar": "04.03.2004",
+      "seat": "5 Sitzer",
+      "porte": "4 Türen",
+      "carburant": "Benzin bleifrei 95",
+      "consommation": "10 L/100km",
+      "gearbox": "automatisch",
+      "compteur": "100-150.000km",
+      "motrice": "Allrad",
+      "gps": "eingebautes GPS",
+      "barre-toit": "Dachträger",
+      "pneu-neige": "Winterpneu",
+      "climatisation": "Klimaanlage",
+      "assiste": "Servolenkung",
+      "regulateur-vitesse": "Geschwindigkeitsregler",
+      "radio-cd": "Radio / CD",
+      "cable": "USB-Anschluss"
+    },
+    "reviews": [
+      "06.02.2023"
+    ],
+    "url": "https://de.2em.ch/autovermietung/thalwil/porsche-cayenne-turbo-6358"
+  }
+]
